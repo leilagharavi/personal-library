@@ -1,6 +1,6 @@
 - isbn: "9780062883612"
   title: "The F*ck It Diet"
-  subtitle: Eating Should Be Easy
+  subtitle: "Eating Should Be Easy"
   year: 2019
   author:
     - "Caroline Dooner"
@@ -109,3 +109,14 @@
   language: "English"
   format: "Paperback"
   status: "Read"
+- isbn: "9781538100561"
+  title: "Being Unequal"
+  subtitle: "How Identity Helps Make and Break Power and Privilege"
+  year: 2018
+  author:
+    - "Peter L. Callero"
+  publisher: "Bloomsbury Academic"
+  pages: 185
+  language: "English"
+  format: "Paperback"
+  status: "Unread"
