@@ -1,20 +1,111 @@
-- isbn: 9780062883612
-  title: The F*ck It Diet
+- isbn: "9780062883612"
+  title: "The F*ck It Diet"
   subtitle: Eating Should Be Easy
   year: 2019
-  author: Caroline Dooner
-  publisher: HarperCollins Publishers
+  author:
+    - "Caroline Dooner"
+  publisher: "HarperCollins Publishers"
   pages: 304
-  language: English
-  format: Paperback
-  status: Reading
-- isbn: 9781913947613
-  title: Fabric for Fashion
-  subtitle: The Swatch Book Revised Second Edition
+  language: "English"
+  format: "Paperback"
+  status: "Reading"
+- isbn: "9781913947613"
+  title: "Fabric for Fashion"
+  subtitle: "The Swatch Book"
   year: 2021
-  author: Clive Hallett, Amanda Johnston
-  publisher: Laurence King Publishing
+  author:
+    - "Clive Hallett"
+    - "Amanda Johnston"
+  publisher: "Laurence King Publishing"
   pages: 102
-  language: English
-  format: Hardcover
-  status: Read
+  language: "English"
+  format: "Hardcover"
+  status: "Read"
+- isbn: "9781529926095"
+  title: "Technofeudalism"
+  subtitle: "What Killed Capitalism"
+  year: 2024
+  author:
+    - "Yanis Varoufakis"
+  publisher: "Knopf Doubleday Publishing Group"
+  pages: 281
+  language: "English"
+  format: "Paperback"
+  status: "Read"
+- isbn: "9781784705756"
+  title: "Talking to My Daughter"
+  subtitle: "A Brief History of Capitalism"
+  year: 2019
+  author:
+    - "Yanis Varoufakis"
+  publisher: "Vintage"
+  pages: 224
+  language: "English"
+  format: "Paperback"
+  status: "Read"
+- isbn: "9781784705763"
+  title: "Adults in the Room"
+  subtitle: "My Battle with Europe's Deep Establishment"
+  year: 2018
+  author:
+    - "Yanis Varoufakis"
+  publisher: "Vintage"
+  pages: 576
+  language: "English"
+  format: "Paperback"
+  status: "Unread"
+- isbn: "9781784704117"
+  title: "And the Weak Suffer what They Must?"
+  subtitle: "Europe, Austerity and the Threat to Global Stability"
+  year: 2017
+  author:
+    - "Yanis Varoufakis"
+  publisher: "Vintage"
+  pages: 336
+  language: "English"
+  format: "Paperback"
+  status: "Read"
+- isbn: "9789188659231"
+  title: "Good Sweden, Bad Sweden"
+  subtitle: "The Use and Abuse of Swedish Values in a Post-truth World"
+  year: 2018
+  author:
+    - "Paul Rapacioli"
+  publisher: "Volante"
+  pages: 153
+  language: "English"
+  format: "Paperback"
+  status: "Read"
+- isbn: "9781108449977"
+  title: "Both Eastern and Western"
+  subtitle: "An Intellectual History of Iranian Modernity"
+  year: 2018
+  author:
+    - "Afshin Matin-Asgari"
+  publisher: "Cambridge University Press"
+  pages: 370
+  language: "English"
+  format: "Paperback"
+  status: "Read"
+- isbn: "9780241658628"
+  title: "The Art of Uncertainty"
+  subtitle: "How to Navigate Chance, Ignorance, Risk and Luck"
+  year: 2024
+  author:
+    - "David Spiegelhalter"
+  publisher: "Penguin Publishing Group"
+  pages: 512
+  language: "English"
+  format: "Hardcover"
+  status: "Read"
+- isbn: "9781250251091"
+  title: "How to Hide an Empire"
+  subtitle: "A History of the Greater United States"
+  year: 2020
+  author:
+    - "Daniel Immerwahr"
+  publisher: "Picador"
+  pages: 528
+  language: "English"
+  format: "Paperback"
+  status: "Read"
